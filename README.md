@@ -8,7 +8,7 @@ Email: noel.odonnell.2014@nuim.ie
 
 
 
-Please see LICENCE.md for licence details.
+Please see LICENCE for licence details.
 
 
 
